@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 RAG demos are easy. RAG pipelines that survive messy data, real users, and production load are not.<br>Building AI-Powered Backends,Python FastAPI Developer Exploring RAG & LLM Integration.<br>FastAPI backends with ASGI to designing retrieval-augmented generation systems. worked with embeddings, vector databases like Qdrant, and making production ready AI Backends.<br>Always learning, always building. Let's connect if you're exploring AI engineering or need a dedicated backend engineer
 
 
